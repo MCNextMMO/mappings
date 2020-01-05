@@ -1,0 +1,2 @@
+# mappings
+Minecraft JSON mappings

@@ -1,0 +1,413 @@
+{
+  "area_effect_cloud": {
+    "name": "Area Effect Cloud",
+    "type": "AREA_EFFECT_CLOUD"
+  },
+  "armor_stand": {
+    "name": "Armor Stand",
+    "type": "ARMOR_STAND"
+  },
+  "arrow": {
+    "name": "Arrow",
+    "type": "ARROW"
+  },
+  "bat": {
+    "name": "Bat",
+    "type": "BAT"
+  },
+  "blaze": {
+    "name": "Blaze",
+    "type": "BLAZE"
+  },
+  "boat": {
+    "name": "Boat",
+    "type": "BOAT"
+  },
+  "cat": {
+    "name": "Cat",
+    "type": "CAT"
+  },
+  "cave_spider": {
+    "name": "Cave Spider",
+    "type": "CAVE_SPIDER"
+  },
+  "chest_minecart": {
+    "name": "Minecart with Chest",
+    "type": "CHICKEN"
+  },
+  "chicken": {
+    "name": "Chicken",
+    "type": "COD"
+  },
+  "command_block_minecart": {
+    "name": "Minecart with Command Block",
+    "type": "MINECART_COMMAND"
+  },
+  "cod": {
+    "name": "Cod",
+    "type": "COD"
+  },
+  "cow": {
+    "name": "Cow",
+    "type": "COW"
+  },
+  "creeper": {
+    "name": "Creeper",
+    "type": "CREEPER"
+  },
+  "dolphin": {
+    "name": "Dolphin",
+    "type": "DOLPHIN"
+  },
+  "donkey": {
+    "name": "Donkey",
+    "type": "DONKEY"
+  },
+  "drowned": {
+    "name": "Drowned",
+    "type": "DROWNED"
+  },
+  "dragon_fireball": {
+    "name": "Dragon Fireball",
+    "type": "DRAGON_FIREBALL"
+  },
+  "egg": {
+    "name": "Thrown Egg",
+    "type": "EGG"
+  },
+  "elder_guardian": {
+    "name": "Elder Guardian",
+    "type": "ELDER_GUARDIAN"
+  },
+  "end_crystal": {
+    "name": "End Crystal",
+    "type": "ENDER_CRYSTAL"
+  },
+  "ender_dragon": {
+    "name": "Ender Dragon",
+    "type": "ENDER_DRAGON"
+  },
+  "ender_pearl": {
+    "name": "Thrown Ender Pearl",
+    "type": "ENDER_PEARL"
+  },
+  "enderman": {
+    "name": "Enderman",
+    "type": "ENDERMAN"
+  },
+  "endermite": {
+    "name": "Endermite",
+    "type": "ENDERMITE"
+  },
+  "evoker_fangs": {
+    "name": "Evoker Fangs",
+    "type": "EVOKER_FANGS"
+  },
+  "evoker": {
+    "name": "Evoker",
+    "type": "EVOKER"
+  },
+  "eye_of_ender": {
+    "name": "Eye of Ender",
+    "type": "ENDER_SIGNAL"
+  },
+  "falling_block": {
+    "name": "Falling Block",
+    "type": "FALLING_BLOCK"
+  },
+  "fireball": {
+    "name": "Fireball",
+    "type": "FIREBALL"
+  },
+  "firework_rocket": {
+    "name": "Firework Rocket",
+    "type": "FIREWORK"
+  },
+  "fishing_bobber": {
+    "name": "Fishing Bobber",
+    "type": "FISHING_HOOK"
+  },
+  "fox": {
+    "name": "Fox",
+    "type": "FOX"
+  },
+  "furnace_minecart": {
+    "name": "Minecart with Furnace",
+    "type": "MINECART_FURNACE"
+  },
+  "ghast": {
+    "name": "Ghast",
+    "type": "GHAST"
+  },
+  "giant": {
+    "name": "Giant",
+    "type": "GIANT"
+  },
+  "guardian": {
+    "name": "Guardian",
+    "type": "GUARDIAN"
+  },
+  "hopper_minecart": {
+    "name": "Minecart with Hopper",
+    "type": "MINECART_HOPPER"
+  },
+  "horse": {
+    "name": "Horse",
+    "type": "HORSE"
+  },
+  "husk": {
+    "name": "Husk",
+    "type": "HUSK"
+  },
+  "ravager": {
+    "name": "Ravager",
+    "type": "RAVAGER"
+  },
+  "illusioner": {
+    "name": "Illusioner",
+    "type": "ILLUSIONER"
+  },
+  "item": {
+    "name": "Item",
+    "type": "DROPPED_ITEM"
+  },
+  "item_frame": {
+    "name": "Item Frame",
+    "type": "ITEM_FRAME"
+  },
+  "killer_bunny": {
+    "name": "The Killer Bunny"
+  },
+  "leash_knot": {
+    "name": "Leash Knot",
+    "type": "LEASH_HITCH"
+  },
+  "lightning_bolt": {
+    "name": "Lightning Bolt",
+    "type": "LIGHTNING"
+  },
+  "llama": {
+    "name": "Llama",
+    "type": "LLAMA"
+  },
+  "llama_spit": {
+    "name": "Llama Spit",
+    "type": "LLAMA_SPIT"
+  },
+  "magma_cube": {
+    "name": "Magma Cube",
+    "type": "MAGMA_CUBE"
+  },
+  "minecart": {
+    "name": "Minecart",
+    "type": "MINECART"
+  },
+  "mooshroom": {
+    "name": "Mooshroom",
+    "type": "MUSHROOM_COW"
+  },
+  "mule": {
+    "name": "Mule",
+    "type": "MULE"
+  },
+  "ocelot": {
+    "name": "Ocelot",
+    "type": "OCELOT"
+  },
+  "painting": {
+    "name": "Painting",
+    "type": "PAINTING"
+  },
+  "panda": {
+    "name": "Panda",
+    "type": "PANDA"
+  },
+  "parrot": {
+    "name": "Parrot",
+    "type": "PARROT"
+  },
+  "phantom": {
+    "name": "Phantom",
+    "type": "PHANTOM"
+  },
+  "pig": {
+    "name": "Pig",
+    "type": "PIG"
+  },
+  "pillager": {
+    "name": "Pillager",
+    "type": "PILLAGER"
+  },
+  "player": {
+    "name": "Player",
+    "type": "PLAYER"
+  },
+  "polar_bear": {
+    "name": "Polar Bear",
+    "type": "POLAR_BEAR"
+  },
+  "potion": {
+    "name": "Potion",
+    "type": "SPLASH_POTION"
+  },
+  "pufferfish": {
+    "name": "Pufferfish",
+    "type": "PUFFERFISH"
+  },
+  "rabbit": {
+    "name": "Rabbit",
+    "type": "RABBIT"
+  },
+  "salmon": {
+    "name": "Salmon",
+    "type": "SALMON"
+  },
+  "sheep": {
+    "name": "Sheep",
+    "type": "SHEEP"
+  },
+  "shulker": {
+    "name": "Shulker",
+    "type": "SHULKER"
+  },
+  "shulker_bullet": {
+    "name": "Shulker Bullet",
+    "type": "SHULKER_BULLET"
+  },
+  "silverfish": {
+    "name": "Silverfish",
+    "type": "SILVERFISH"
+  },
+  "skeleton": {
+    "name": "Skeleton",
+    "type": "SKELETON"
+  },
+  "skeleton_horse": {
+    "name": "Skeleton Horse",
+    "type": "SKELETON_HORSE"
+  },
+  "slime": {
+    "name": "Slime",
+    "type": "SLIME"
+  },
+  "small_fireball": {
+    "name": "Small Fireball",
+    "type": "SMALL_FIREBALL"
+  },
+  "snowball": {
+    "name": "Snowball",
+    "type": "SNOWBALL"
+  },
+  "snow_golem": {
+    "name": "Snow Golem",
+    "type": "SNOWMAN"
+  },
+  "spawner_minecart": {
+    "name": "Minecart with Spawner",
+    "type": "MINECART_MOB_SPAWNER"
+  },
+  "spectral_arrow": {
+    "name": "Spectral Arrow",
+    "type": "SPECTRAL_ARROW"
+  },
+  "spider": {
+    "name": "Spider",
+    "type": "SPIDER"
+  },
+  "squid": {
+    "name": "Squid",
+    "type": "SQUID"
+  },
+  "stray": {
+    "name": "Stray",
+    "type": "STRAY"
+  },
+  "tnt": {
+    "name": "Primed TNT",
+    "type": "PRIMED_TNT"
+  },
+  "tnt_minecart": {
+    "name": "Minecart with TNT",
+    "type": "MINECART_TNT"
+  },
+  "trader_llama": {
+    "name": "Trader Llama",
+    "type": "TRADER_LLAMA"
+  },
+  "trident": {
+    "name": "Trident",
+    "type": "TRIDENT"
+  },
+  "tropical_fish": {
+    "name": "Tropical Fish",
+    "type": "TROPICAL_FISH"
+  },
+  "turtle": {
+    "name": "Turtle",
+    "type": "TURTLE"
+  },
+  "vex": {
+    "name": "Vex",
+    "type": "VEX"
+  },
+  "villager": {
+    "name": "Villager",
+    "type": "VILLAGER"
+  },
+  "wandering_trader": {
+    "name": "Wandering Trader",
+    "type": "WANDERING_TRADER"
+  },
+  "iron_golem": {
+    "name": "Iron Golem",
+    "type": "IRON_GOLEM"
+  },
+  "vindicator": {
+    "name": "Vindicator",
+    "type": "VINDICATOR"
+  },
+  "witch": {
+    "name": "Witch",
+    "type": "WITCH"
+  },
+  "wither": {
+    "name": "Wither",
+    "type": "WITHER"
+  },
+  "wither_skeleton": {
+    "name": "Wither Skeleton",
+    "type": "WITHER_SKELETON"
+  },
+  "wither_skull": {
+    "name": "Wither Skull",
+    "type": "WITHER_SKULL"
+  },
+  "wolf": {
+    "name": "Wolf",
+    "type": "WOLF"
+  },
+  "experience_bottle": {
+    "name": "Thrown Bottle o' Enchanting",
+    "type": "THROWN_EXP_BOTTLE"
+  },
+  "experience_orb": {
+    "name": "Experience Orb",
+    "type": "EXPERIENCE_ORB"
+  },
+  "zombie": {
+    "name": "Zombie",
+    "type": "ZOMBIE"
+  },
+  "zombie_horse": {
+    "name": "Zombie Horse",
+    "type": "ZOMBIE_HORSE"
+  },
+  "zombie_pigman": {
+    "name": "Zombie Pigman",
+    "type": "PIG_ZOMBIE"
+  },
+  "zombie_villager": {
+    "name": "Zombie Villager",
+    "type": "ZOMBIE_VILLAGER"
+  }
+}

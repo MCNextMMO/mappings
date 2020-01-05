@@ -33,11 +33,11 @@
   },
   "chest_minecart": {
     "name": "Minecart with Chest",
-    "type": "CHICKEN"
+    "type": "MINECART_CHEST"
   },
   "chicken": {
     "name": "Chicken",
-    "type": "COD"
+    "type": "CHICKEN"
   },
   "command_block_minecart": {
     "name": "Minecart with Command Block",
